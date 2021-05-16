@@ -9,6 +9,4 @@
 
 ## Scheme
 ![Scheme](https://raw.githubusercontent.com/KOSTA51/police-lights-arduino/main/scheme.png)
-
-## In Work
-![In Work](https://kostadev.xyz/info/imgs/378762.gif)
+![Scheme](https://raw.githubusercontent.com/KOSTA51/police-lights-arduino/main/scheme.gif)
